@@ -1,1 +1,1 @@
-print("Hello")
+require("Grey")
