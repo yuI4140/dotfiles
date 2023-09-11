@@ -1,0 +1,1 @@
+exec-once = hyprpaper & waybar & /usr/bin/pipewire & /usr/bin/pipewire-pulse & /usr/bin/pipewire-media-session
